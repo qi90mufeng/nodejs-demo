@@ -1,9 +1,9 @@
-<br>下载：https://nodejs.org/en/download/ </br>
-<br>安装好之后，检测PATH环境变量是否配置了Node.js，点击开始=》运行=》输入"cmd" => 输入命令"path"</br>
-<br>检查Node.js版本  node --version</br>
+下载：https://nodejs.org/en/download/
+</br>安装好之后，检测PATH环境变量是否配置了Node.js，点击开始=》运行=》输入"cmd" => 输入命令"path"
+</br>检查Node.js版本  node --version
 <hr />
-<br>API文档<url>http://nodejs.cn/api/zlib.html </url> </br>
-<br>摘自 <url> http://www.runoob.com </url> </br>
+</br>API文档<url>http://nodejs.cn/api/zlib.html </url>
+</br>摘自 <url> http://www.runoob.com </url>
 <ol>
 <li>回调函数</li>
 <li>事件循环</li>
